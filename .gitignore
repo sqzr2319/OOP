@@ -1,0 +1,3 @@
+.vscode/
+HW1/build/*
+!HW1/build/HW1.exe
