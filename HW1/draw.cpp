@@ -7,6 +7,7 @@ void Draw::drawC(){
     std::cout << "C\n";
     std::cout << " C\n";
     std::cout << "  CCCC\n";
+    std::cout << "\n";
 }
 
 void Draw::drawPlus(){
@@ -15,4 +16,5 @@ void Draw::drawPlus(){
     std::cout << "+++++\n";
     std::cout << "  +\n";
     std::cout << "  +\n";
+    std::cout << "\n";
 }
