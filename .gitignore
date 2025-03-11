@@ -1,4 +1,2 @@
 .vscode/
-build/
-HW1/build/*
-!HW1/build/HW1.exe
+HW*/build/*
