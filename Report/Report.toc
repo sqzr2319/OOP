@@ -1,0 +1,40 @@
+\contentsline {section}{\numberline {1}简介}{1}{}%
+\contentsline {section}{\numberline {2}相关用法}{1}{}%
+\contentsline {subsection}{\numberline {2.1}基本概念与头文件}{2}{}%
+\contentsline {subsection}{\numberline {2.2}模板参数}{2}{}%
+\contentsline {subsection}{\numberline {2.3}构造方法}{3}{}%
+\contentsline {subsection}{\numberline {2.4}基本操作}{4}{}%
+\contentsline {subsubsection}{\numberline {2.4.1}元素访问}{4}{}%
+\contentsline {subsubsection}{\numberline {2.4.2}迭代器}{4}{}%
+\contentsline {subsubsection}{\numberline {2.4.3}容量操作}{4}{}%
+\contentsline {subsubsection}{\numberline {2.4.4}修改操作}{5}{}%
+\contentsline {subsubsection}{\numberline {2.4.5}查找操作}{5}{}%
+\contentsline {subsection}{\numberline {2.5}特有操作}{6}{}%
+\contentsline {subsection}{\numberline {2.6}自定义比较器}{7}{}%
+\contentsline {section}{\numberline {3}使用案例}{7}{}%
+\contentsline {subsection}{\numberline {3.1}基本使用示例}{7}{}%
+\contentsline {subsection}{\numberline {3.2}使用自定义键类型}{9}{}%
+\contentsline {subsection}{\numberline {3.3}利用特有操作}{11}{}%
+\contentsline {subsection}{\numberline {3.4}大批量数据的预分配}{13}{}%
+\contentsline {subsection}{\numberline {3.5}使用flat\_multimap管理重复键}{14}{}%
+\contentsline {subsection}{\numberline {3.6}使用注意事项}{16}{}%
+\contentsline {section}{\numberline {4}性能分析}{17}{}%
+\contentsline {subsection}{\numberline {4.1}理论复杂度分析}{17}{}%
+\contentsline {paragraph}{查找操作}{18}{}%
+\contentsline {paragraph}{插入操作}{18}{}%
+\contentsline {paragraph}{删除操作}{18}{}%
+\contentsline {paragraph}{遍历操作}{18}{}%
+\contentsline {subsection}{\numberline {4.2}实验设计}{19}{}%
+\contentsline {subsection}{\numberline {4.3}实验结果}{27}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}查找性能}{27}{}%
+\contentsline {subsubsection}{\numberline {4.3.2}插入性能}{28}{}%
+\contentsline {subsubsection}{\numberline {4.3.3}批量构造性能}{28}{}%
+\contentsline {subsubsection}{\numberline {4.3.4}遍历性能}{29}{}%
+\contentsline {subsection}{\numberline {4.4}分析与讨论}{29}{}%
+\contentsline {section}{\numberline {5}优缺点与使用场景}{29}{}%
+\contentsline {subsection}{\numberline {5.1}优点}{30}{}%
+\contentsline {subsection}{\numberline {5.2}缺点}{30}{}%
+\contentsline {subsection}{\numberline {5.3}适用场景}{31}{}%
+\contentsline {subsection}{\numberline {5.4}不适用场景}{31}{}%
+\contentsline {subsection}{\numberline {5.5}优化策略}{31}{}%
+\contentsline {section}{\numberline {6}总结}{32}{}%

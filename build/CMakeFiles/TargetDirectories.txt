@@ -1,0 +1,3 @@
+C:/Files/OOP/build/CMakeFiles/HW1.dir
+C:/Files/OOP/build/CMakeFiles/edit_cache.dir
+C:/Files/OOP/build/CMakeFiles/rebuild_cache.dir
